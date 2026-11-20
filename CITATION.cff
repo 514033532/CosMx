@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Analysis code for: Single-cell-resolution spatial profiling of human diabetic kidney disease reveals remodelled intercellular communication, immune-enriched domains and reduced glomerular CTLA4"
+authors:
+  - family-names: Yu
+    given-names: Zongchao
+  - family-names: Lin
+    given-names: Huanhuan
+  - family-names: Wu
+    given-names: Liangyan
+  - family-names: Gong
+    given-names: Wenyu
+  - family-names: Huang
+    given-names: Lingyu
+  - family-names: Zhong
+    given-names: Xiaoni
+  - family-names: Li
+    given-names: Meiqian
+  - family-names: Zeng
+    given-names: Zhipeng
+  - family-names: Shi
+    given-names: Yangna
+  - family-names: Zhang
+    given-names: Han
+  - family-names: Ma
+    given-names: Jingsheng
+  - family-names: Tang
+    given-names: Donge
+year: 2026
+license: MIT
